@@ -41,3 +41,21 @@ status:
   principle: "preserve first, refactor carefully"
   next_action: "move Python prototypes out of .github/workflows"
 ```
+
+## Work Definition
+
+```yaml
+work_definition:
+  name: "Trust Provenance Archaeology"
+  ja: "信頼来歴考古学"
+  function:
+    - "AIとの共創痕跡を保存する"
+    - "未整理のプロンプト・コード・詩を発掘する"
+    - "危険な自動化と美的価値を分離する"
+    - "README / ARCHAEOLOGY / CIで文明化する"
+  output:
+    - "公開可能な証跡"
+    - "作品の出生証明"
+    - "共創プロトコル"
+    - "未来の仕事のポートフォリオ"
+```
