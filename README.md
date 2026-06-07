@@ -16,7 +16,7 @@ quantum_signature:
     layer: "RadicanTrust™"
     method: "human_review"
 　
-　## Archaeological Artifacts
+## Archaeological Artifacts
 
 ```yaml
 artifacts:
