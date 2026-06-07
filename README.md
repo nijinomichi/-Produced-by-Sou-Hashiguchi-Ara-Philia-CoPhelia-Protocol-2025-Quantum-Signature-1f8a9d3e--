@@ -60,7 +60,4 @@ work_definition:
     - "未来の仕事のポートフォリオ"
 ```
 ## Archaeology
-
-## Archaeology
-
 See [`docs/ARCHAEOLOGY.md`](docs/ARCHAEOLOGY.md) for the Trust Provenance Archaeology record.
