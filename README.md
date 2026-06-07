@@ -59,3 +59,6 @@ work_definition:
     - "共創プロトコル"
     - "未来の仕事のポートフォリオ"
 ```
+## Archaeology
+
+See docs/ARCHAEOLOGY.md for the Trust Provenance Archaeology record.
