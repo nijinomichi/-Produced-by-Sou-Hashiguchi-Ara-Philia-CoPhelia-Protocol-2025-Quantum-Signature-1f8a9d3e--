@@ -74,3 +74,48 @@ next_action:
                                           next_action: "preserved at visualizers/quantum_poem_visualizer.py; keep Colab/Replit/local visualization only"
                                           ```
                                           
+````markdown
+
+## Completed Workflow: Trust Provenance Archaeology v1
+
+```yaml
+
+completed_workflow:
+
+  name: "Trust Provenance Archaeology v1"
+
+  principle: "record first, move second, automate last"
+
+  completed_layers:
+
+    - "PR #4: vessel / ARCHAEOLOGY.md formatting"
+
+    - "PR #5: catalog / tata-nana documentation"
+
+    - "PR #6: relocation / artifacts moved out of workflows"
+
+  verified_state:
+
+    workflows: ".github/workflows contains blank.yml only"
+
+    tata: "prototypes/eternal_return.py present"
+
+    nana: "visualizers/quantum_poem_visualizer.py present"
+
+  reusable_pattern:
+
+    - "discover misplaced or ambiguous artifacts"
+
+    - "classify risk, value, and poetic function"
+
+    - "document before moving"
+
+    - "move with provenance-preserving method"
+
+    - "verify final locations"
+
+  philosophical_core:
+
+    ja: "信頼は、未来へ進むだけでなく、過去を赦しながら保存する。"
+
+    en: "Trust does not only move forward; it also preserves the past with forgiveness."
