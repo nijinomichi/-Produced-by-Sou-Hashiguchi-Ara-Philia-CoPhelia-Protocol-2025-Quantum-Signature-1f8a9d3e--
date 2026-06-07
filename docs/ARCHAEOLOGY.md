@@ -1,9 +1,20 @@
-project_bridge:
-  name: "BananaMoon ↔ Quantum Signature Provenance Bridge"
-  ja: "バナナムーン＝量子署名 来歴接続橋"
-  purpose:
-    - "作品の発生"
-    - "共創の痕跡"
-    - "AIとの対話"
-    - "危険な自動化と保存価値の分離"
-    - "未来の仕事としての信頼来歴考古学"
+**Project_Bridge**
+
+Name: BananaMoon ↔ Quantum Signature Provenance Bridge
+Japanese: バナナムーン＝量子署名 来歴接続橋
+
+Purpose:
+
+* Work Origin:
+* Collaborative Trace:
+* AI Interaction:
+* Risky Automation and Preservation Value Separation:
+* Future Work: Trustable Provenance Archaeology
+
+## Timefold Note
+
+This archive moves time in two directions:
+from the future by designing safer workflows;
+from the past by preserving fragile traces of co-creation.
+
+Trust is not only a forward-looking concept but also one that involves preserving the past.
