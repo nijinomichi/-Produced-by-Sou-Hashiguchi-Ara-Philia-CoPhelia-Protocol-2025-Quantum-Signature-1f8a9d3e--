@@ -15,3 +15,29 @@ quantum_signature:
   validation:
     layer: "RadicanTrust™"
     method: "human_review"
+
+## Archaeological Artifacts
+
+```yaml
+artifacts:
+  tata:
+    original_path: ".github/workflows/たた"
+    proposed_path: "prototypes/eternal_return.py"
+    role: "NFC + eternal return + outreach prototype"
+    status: "preserve; do not execute automatically"
+
+  nana:
+    original_path: ".github/workflows/なな"
+    proposed_path: "visualizers/quantum_poem_visualizer.py"
+    role: "CosmicTrust Driver / Quantum Poem Visualizer"
+    status: "preserve; suitable for visualization experiments"
+```
+
+## Current Status
+
+```yaml
+status:
+  phase: "code archaeology"
+  principle: "preserve first, refactor carefully"
+  next_action: "move Python prototypes out of .github/workflows"
+```
