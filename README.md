@@ -15,6 +15,8 @@ quantum_signature:
   validation:
     layer: "RadicanTrust™"
     method: "human_review"
+　、、、
+
 　
 ## Archaeological Artifacts
 
