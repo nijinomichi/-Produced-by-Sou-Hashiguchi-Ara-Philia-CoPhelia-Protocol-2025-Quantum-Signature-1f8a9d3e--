@@ -61,4 +61,6 @@ work_definition:
 ```
 ## Archaeology
 
-See docs/ARCHAEOLOGY.md for the Trust Provenance Archaeology record.
+## Archaeology
+
+See [`docs/ARCHAEOLOGY.md`](docs/ARCHAEOLOGY.md) for the Trust Provenance Archaeology record.
