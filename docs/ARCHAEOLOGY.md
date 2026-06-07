@@ -74,8 +74,8 @@ next_action:
                                           next_action: "preserved at visualizers/quantum_poem_visualizer.py; keep Colab/Replit/local visualization only"
                                           ```
                                           
-````markdown
 
+````
 ## Completed Workflow: Trust Provenance Archaeology v1
 
 ```yaml
