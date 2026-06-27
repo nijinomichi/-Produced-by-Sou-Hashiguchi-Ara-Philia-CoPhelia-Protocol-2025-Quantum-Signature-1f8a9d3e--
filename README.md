@@ -1,5 +1,12 @@
 # Banana Quantum Signature Archive
 
+> This is not a finished product.
+> It is an open observation field exploring human–AI resonance,
+> trust, and aesthetic instability.
+>
+> Incompleteness here is intentional.
+> The active observation happens in **Discussion #9**.
+
 `bana` is the seed phrase.
 
 This repository preserves early prototypes and poetic code fragments from the
