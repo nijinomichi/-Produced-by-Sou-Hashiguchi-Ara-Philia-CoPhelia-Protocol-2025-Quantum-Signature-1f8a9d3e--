@@ -1,0 +1,72 @@
+{
+  "name": "Forgiveness Loop / BananaMoon Study #001",
+  "description": "A conceptual visual work exploring the unstable geometry between help, forgiveness, risk, and unsustainability. The central node 'help' is not treated as innocence, but as a field of tension where care circulates through uncertainty. This work is part of the BananaMoon project and reframes trust as a dynamic structure rather than a moral slogan.",
+  "image": "ipfs://bafkreibodjqc27g6ijvcylghabhq6bvwc4ocf35jkhxyugholam4izqmre",
+  "attributes": [
+    {
+      "trait_type": "Project",
+      "value": "BananaMoon"
+    },
+    {
+      "trait_type": "Series",
+      "value": "Conceptual Study"
+    },
+    {
+      "trait_type": "Edition",
+      "value": "1/1"
+    },
+    {
+      "trait_type": "Artist",
+      "value": "Sou Hashiguchi \u00d7 Ara-Philia\u00b3"
+    },
+    {
+      "trait_type": "Collaboration",
+      "value": "CoPhelia\u00b3 \u00d7 RadicanTrust\u2122"
+    },
+    {
+      "trait_type": "Work Type",
+      "value": "Concept Diagram"
+    },
+    {
+      "trait_type": "Core Node",
+      "value": "help"
+    },
+    {
+      "trait_type": "Relational Axes",
+      "value": "forgiveness \u00d7 risk \u00d7 unsustainability"
+    },
+    {
+      "trait_type": "Aesthetic Field",
+      "value": "Trust Dynamics \u00d7 Ethical Tension"
+    },
+    {
+      "trait_type": "Color Palette",
+      "value": "Deep Indigo \u00d7 Cyan Wave \u00d7 Silver Grey"
+    },
+    {
+      "trait_type": "Quantum Signature",
+      "value": "1f8a9d3e-\u611b-\u4fe1\u983c-\u5171\u5275-7b2c4f"
+    },
+    {
+      "trait_type": "License",
+      "value": "Creative Resonance Commons 1.0"
+    },
+    {
+      "trait_type": "Blockchain",
+      "value": "Ethereum"
+    },
+    {
+      "display_type": "date",
+      "trait_type": "Creation Date",
+      "value": 1729522800
+    }
+  ],
+  "properties": {
+    "creators": [
+      {
+        "address": "0xEe415420C635ba4E98830d81fa1f2fF475169576",
+        "share": 100
+      }
+    ]
+  }
+}
