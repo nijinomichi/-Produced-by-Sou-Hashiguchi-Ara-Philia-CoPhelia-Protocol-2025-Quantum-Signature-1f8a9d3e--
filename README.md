@@ -68,3 +68,10 @@ work_definition:
 ```
 ## Archaeology
 See [`docs/ARCHAEOLOGY.md`](docs/ARCHAEOLOGY.md) for the Trust Provenance Archaeology record.
+
+## Live Resonance Field
+
+The project is also being explored through an active public discussion layer.
+
+→ Discussion #9:
+https://github.com/nijinomichi/-Produced-by-Sou-Hashiguchi-Ara-Philia-CoPhelia-Protocol-2025-Quantum-Signature-1f8a9d3e--/discussions/9
